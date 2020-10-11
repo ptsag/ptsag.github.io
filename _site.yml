@@ -1,7 +1,7 @@
 name: "paul tsagaroulis"
 output_dir: "."
 navbar:
-  title: "paul tsagaroulis"
+  title: "paul tsagaroulis - home"
   left:
     - text: "presentations"
       href: presentations.html
