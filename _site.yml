@@ -4,7 +4,7 @@ navbar:
   title: "paul tsagaroulis"
   left:
     - text: "presentations"
-      href: #
+      href: presentations.html
   right:
     - icon: fa-github fa-lg
       href: http://github.com/ptsag 
