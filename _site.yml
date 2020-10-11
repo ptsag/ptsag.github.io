@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "paul tsagaroulis, phd"
   left:
+    - text: "people analytics"
+      href: people-analytics.html
     - text: "presentations"
       href: presentations.html
   right:

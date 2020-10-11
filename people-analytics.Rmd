@@ -1,0 +1,26 @@
+---
+title: "paul tsagaroulis - people analytics"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61071-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-61071-2');
+</script>
+
+For me, **people analytics** refers to data-driven practices that help improve organizations and their workforce. But analyzing data about people at work is nuanced, complex, and can be challenging. For most organizations, advancing people analytics may predicate on a strong data culture. In contrast, many organizations may struggle with limited transparency of HR data to advance people analytics. In addition, fully embracing people analytics may require partnering with finance and technology teams – it’s not just an ‘HR thing.’ And so on.
+
+I began my career in workforce analytics in 2003 (before *people analytics* entered our vocabulary) after completing my master of arts in industrial-organizational psychology. This year, I completed my PhD in business psychology from the Chicago School of Psychology. 
+
+My professional interests are helping HR teams improve data literacy, for example, to advance analytical thinking at work. One way to achieve this is through leveraging best practices in data visualization to foster the *showing of data* and the *thinking of data*. 
+
+I have found that when we start with people analytics, we often end with a better understanding of organizational outcomes. 
