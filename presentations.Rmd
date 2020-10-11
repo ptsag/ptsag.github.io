@@ -1,38 +1,47 @@
 ---
 title: "paul tsagaroulis - presentations"
-author: "paul tsagaroulis"
-date: "10/11/2020"
 output: html_document
 ---
-
-## Data visualization workshop at the 2021 SIOP conference 
-Data visualization: How to make a picture worth a 1000 words. Successful decision-making requires turning data insights into action. Data visualization facilitates this by presenting data with impact (art) while staying true to the results (science). This workshop focuses on practical applications of data visualization principles to drive impact. Attendees will be given opportunities to practice those principles during the session.
+  
+  
+## Conferences & presentations  
+  
+__Data visualization workshop at the 2021 SIOP conference__  
+Data visualization: How to make a picture worth a 1000 words. Successful decision-making requires turning data insights into action. Data visualization facilitates this by presenting data with impact (art) while staying true to the results (science). This workshop focuses on practical applications of data visualization principles to drive impact. Attendees will be given opportunities to practice those principles during the session.  
 [siop.org/Annual-Conference/Sessions/Workshops](http://www.siop.org/Annual-Conference/Sessions/Workshops)
 
-## Hosted seminar on data visualization with R & Tableau at the 2019 SIOP conference
-Implementing data visualization science into practice: Doing, seeing and thinking. This seminar focuses on the practical application of data visualization, grounded in theory and practice by top visual designers. This hands-on session will allow users to translate principles into actionable data visualizations using software tools for all experience levels. Participants will be able to demonstrate how to evaluate designs and identify the implications of data visualization for decision making. [siop.org/Conferences/2019-Conference/Friday-Seminars](http://www.siop.org/Conferences/2019-Conference/Friday-Seminars)
+__Hosted seminar on data visualization with R & Tableau at the 2019 SIOP conference__  
+Implementing data visualization science into practice: Doing, seeing and thinking. This seminar focuses on the practical application of data visualization, grounded in theory and practice by top visual designers. This hands-on session will allow users to translate principles into actionable data visualizations using software tools for all experience levels. Participants will be able to demonstrate how to evaluate designs and identify the implications of data visualization for decision making.   [siop.org/Conferences/2019-Conference/Friday-Seminars](http://www.siop.org/Conferences/2019-Conference/Friday-Seminars)
 
-## GSA data science code-along 2017: Data visualization training
-A data science event featuring Python, R, training in data visualization practices 
+__GSA data science code-along 2017: Data visualization training__  
+A data science event featuring Python, R, training in data visualization practices  
 [github.com/GSA/training-pathway-data-practitioner/tree/master/codealong-sessions-Oct2017](http://www.github.com/GSA/training-pathway-data-practitioner/tree/master/codealong-sessions-Oct2017)
 
-## Panelist at the 2017 SIOP conference 
+__Panelist at the 2017 SIOP conference__  
 Data visualization in action. This session explores common practices, emerging techniques, tools, risks, and trends for visualizing various data sources. Panelists present expert perspectives on tackling today’s challenges of effectively communicating data. This includes leveraging storytelling concepts alongside technology to construct innovative, informative, and compelling visualizations for datasets small and large. 
 
-## Presenter at the 2017 SIOP Top Minds and Bottom Lines workshop
+__Presenter at the 2017 SIOP Top Minds and Bottom Lines workshop__  
 Information visualization has emerged as the linchpin leadership skill between complexity and compelling message. You know you should be telling a story with your data, but what type of data should you visualize, and how do you move from visualization to implementation? During this event leading experts in the field will provide a thorough review of key visualization design principles, examples of real-world data displayed graphically, and resources for application. Business leaders, HR professionals, and graduate students specializing in business will expand their data visualization toolset and techniques, discover practical step-by-step guides for data storytelling, and learn data visualization best practices. 
 
-## Presenter at the 2016 SIOP Leading Edge Consortium conference 
+__Presenter at the 2016 SIOP Leading Edge Consortium conference__  
 Lessons learned in data visualization. The human capital analytics division at the U.S. General Services Administration (GSA) is taking a data-driven approach to optimizing how GSA manages and deploys human capital to execute business strategy. The team’s first deliverable was a workforce dashboard created using best practices in data visualization techniques.  
 
-## Panelist at the 2016 OPM Human Capital Analytics Symposium: 
+__Panelist at the 2016 OPM Human Capital Analytics symposium__  
 Data analytics for human capital strategy- Building a people analytics team: Using dashboards to drive strategy. In recent years, human resource (HR) practices have been moving towards transforming HR from a transactional function to becoming a strategic partner. This change has been based on the use of employee data analytics methods and corresponding technology to solve important organizational issues. The current panel session will focus on describing how three agencies have created People Analytic teams; and how these are developing and deploying dashboards to help leaders make evidence-based strategic decisions.
  
-## Presenter at the 2016 ACT-IAC Management of Change conference
+__Presenter at the 2016 ACT-IAC Management of Change conference__  
 Applying & implementing analytics - How to, When to, and Why. Analytics Boot Camp: This interactive session will give you the methods for the effective implementation of analytics and an analytics program. The session will provide a framework for implementation and a roadmap to implementing analytics within your organization.
 
-## Presenter at the 2015 Tableau Government Summit
+__Presenter at the 2015 Tableau Government Summit__  
 Data-driven approaches to human capital analytics. Learn about how the U.S. General Services Administration is taking a data-driven approach to manage and deploy human capital analytics. 
 
-## Presenter at the 2015 Tableau conference 
+__Presenter at the 2015 Tableau conference__  
 Dashboards at the U.S. General Services Administration. Learn about how the U.S. General Services Administration is taking a data-driven approach to manage and deploy human capital analytics and execute business strategy. The team’s first deliverable was the deployment of a workforce dashboard report using Tableau.
+  
+## I’ve also mentored colleagues to present at conferences  
+ 
+__Workforce data science in the U.S. Federal Government__  
+Presented by Aubrey Scarborough at the 2017 Tableau conference
+
+__Building a Highly Functioning Analytics Team__  
+Presented by Rachel Sullivan from GSA at the 2016 Predictive Analytics World conference 
