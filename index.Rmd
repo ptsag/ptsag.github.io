@@ -3,7 +3,7 @@ title: "paul tsagaroulis - about me"
 output: html_document
 ---
 
-## Hello... My research interest is in developing a better understanding of how data visualization practices may help facilitate comprehension. 
+## Hello... My research interest is in developing a better understanding of how data visualization practices may help facilitate comprehension.  
 
 ### My study explored the relationship data visualizations (tables and bar charts) and comprehension about the data. 
 

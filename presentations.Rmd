@@ -1,8 +1,9 @@
+\AtBeginDocument{\let\maketitle\relax}
+
 ---
 title: "paul tsagaroulis - presentations"
 output: html_document
 ---
-  
   
 ## Conferences & presentations  
   
@@ -11,7 +12,8 @@ Data visualization: How to make a picture worth a 1000 words. Successful decisio
 [siop.org/Annual-Conference/Sessions/Workshops](http://www.siop.org/Annual-Conference/Sessions/Workshops)
 
 __Hosted seminar on data visualization with R & Tableau at the 2019 SIOP conference__  
-Implementing data visualization science into practice: Doing, seeing and thinking. This seminar focuses on the practical application of data visualization, grounded in theory and practice by top visual designers. This hands-on session will allow users to translate principles into actionable data visualizations using software tools for all experience levels. Participants will be able to demonstrate how to evaluate designs and identify the implications of data visualization for decision making.   [siop.org/Conferences/2019-Conference/Friday-Seminars](http://www.siop.org/Conferences/2019-Conference/Friday-Seminars)
+Implementing data visualization science into practice: Doing, seeing and thinking. This seminar focuses on the practical application of data visualization, grounded in theory and practice by top visual designers. This hands-on session will allow users to translate principles into actionable data visualizations using software tools for all experience levels. Participants will be able to demonstrate how to evaluate designs and identify the implications of data visualization for decision making.  
+[siop.org/Conferences/2019-Conference/Friday-Seminars](http://www.siop.org/Conferences/2019-Conference/Friday-Seminars)
 
 __GSA data science code-along 2017: Data visualization training__  
 A data science event featuring Python, R, training in data visualization practices  
