@@ -27,7 +27,7 @@ My professional interests are helping HR teams improve data literacy, for exampl
 
 I have found that when we start with people analytics, we often end with a better understanding of organizational outcomes. 
 
-```{r, echo=FALSE, message=FALSE, results=FALSE}
+```{r, gTrend, echo=FALSE, message=FALSE, results=FALSE}
 library(tidyverse)
 setwd("/Users/paul/OneDrive/github") 
 getwd()
