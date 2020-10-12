@@ -21,8 +21,31 @@ knitr::opts_chunk$set(echo = TRUE)
 
 But analyzing data about people at work is nuanced, complex, and can be challenging. For most organizations, advancing people analytics may predicate on a strong data culture. In contrast, many organizations may struggle with limited transparency of HR data to advance people analytics. In addition, fully embracing people analytics may require partnering with finance and technology teams – it’s not just an ‘HR thing.’ And so on.
 
-I began my career in workforce analytics in 2003 (before *people analytics* entered our vocabulary) after completing my master of arts in industrial-organizational psychology. This year, I completed my PhD in business psychology from the Chicago School of Psychology. 
+I began my career in workforce analytics in 2003 (before *people analytics* entered our vocabulary, see chart below) after completing my master of arts in industrial-organizational psychology. This year, I completed my PhD in business psychology from the Chicago School of Psychology. 
 
 My professional interests are helping HR teams improve data literacy, for example, to advance analytical thinking at work. One way to achieve this is through leveraging best practices in data visualization to foster the *showing of data* and the *thinking of data*. 
 
 I have found that when we start with people analytics, we often end with a better understanding of organizational outcomes. 
+
+```{r, echo=FALSE, message=FALSE, results=FALSE}
+library(tidyverse)
+setwd("/Users/paul/OneDrive/github") 
+getwd()
+
+data <- read.csv('gTrends.csv')
+head(data); tail(data)
+
+gTrend<-ggplot() + geom_line(aes(x=year,y=cumsum(count),color='HR analytics'),data %>% filter(query=='HR Analytics')) +
+  geom_line(aes(x=year,y=cumsum(count), color='People analytics'),data %>% filter(query=='People Analytics')) +
+  geom_line(aes(x=year,y=cumsum(count), color='Workforce analytics'),data %>% filter(query=='Workforce Analytics')) 
+  
+gTrendchart <- gTrend + 
+  ggtitle("Google searches (cumulative since 2014)") + 
+  theme(
+  legend.position="bottom",   
+  legend.title = element_blank(),
+  axis.title.x = element_blank(),
+  axis.title.y = element_blank()) 
+
+gTrendchart
+```
