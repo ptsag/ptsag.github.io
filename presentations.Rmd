@@ -1,5 +1,3 @@
-\AtBeginDocument{\let\maketitle\relax}
-
 ---
 title: "paul tsagaroulis - presentations"
 output: html_document
