@@ -55,7 +55,7 @@ Dashboards at the U.S. General Services Administration. Learn about how the U.S.
 #### I’ve also mentored colleagues to present at conferences  
  
 __Workforce data science in the U.S. Federal Government__  
-Presented by Aubrey S. at the 2017 Tableau conference
+Presented by Aubrey S. at the 2017 Tableau conference 
 
 __Building a Highly Functioning Analytics Team__  
 Presented by Rachel S. from GSA at the 2016 Predictive Analytics World conference 
