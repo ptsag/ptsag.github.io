@@ -50,7 +50,7 @@ __Presenter at the 2015 Tableau Government Summit__
 Data-driven approaches to human capital analytics. Learn about how the U.S. General Services Administration is taking a data-driven approach to manage and deploy human capital analytics. 
 
 __Presenter at the 2015 Tableau conference__  
-Dashboards at the U.S. General Services Administration. Learn about how the U.S. General Services Administration is taking a data-driven approach to manage and deploy human capital analytics and execute business strategy. The team’s first deliverable was the deployment of a workforce dashboard report using Tableau.
+Dashboards at the U.S. General Services Administration. Learn about how the U.S. General Services Administration is taking a data-driven approach to manage and deploy human capital analytics and execute business strategy. The team’s first deliverable was the deployment of a workforce dashboard report using Tableau. 
   
 #### I’ve also mentored colleagues to present at conferences  
  
