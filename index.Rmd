@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
   gtag('config', 'UA-61071-2');
 </script>
 
-![Paul Tsagaroulis](/Users/paul/Documents/GitHub/ptsag.github.io/paul-tsagaroulis.jpg){#id .class width=100 height=100px} 
+![Paul Tsagaroulis](https://raw.githubusercontent.com/ptsag/ptsag.github.io/main/paul-tsagaroulis.jpg){#id .class width=100 height=100px} 
 
 My research interest is in developing a better understanding of how data visualization practices may help facilitate comprehension. My dissertation study explored the relationship between data visualizations practices (data presented in tables and as charts) and comprehension about the data. 
 
