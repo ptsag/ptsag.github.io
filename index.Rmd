@@ -19,9 +19,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](https://raw.githubusercontent.com/ptsag/ptsag.github.io/main/paul-tsagaroulis.jpg){#id .class width=150 height=150px} 
 
-Hello. I'm the director of HR Analytics at Carrier. In my previous role, I developed a team of analysts and data engineers as the HR analytics division director at the U.S. General Services Administration. I've also conducted workforce effectiveness research at Allstate and led HR analytics support for global functions at UBS. 
+Hello. I'm the director of HR analytics at Carrier. In my previous role, I developed a team of analysts and data engineers as the HR analytics  director at the U.S. General Services Administration. I've also conducted workforce effectiveness research at Allstate and led HR analytics support for global functions at UBS. 
 
-I have more than 15 years of experience in [people analytics](people-analytics.html). I have a PhD in Business Psychology (industrial-organizational track) from the Chicago School of Professional Psychology. 
+I have more than 15 years of experience in [people analytics](people-analytics.html) and have a PhD in Business Psychology (industrial-organizational track) from the Chicago School of Professional Psychology. 
 
 I've been recognized as a data visualization expert and have [spoken](presentations.html) at national conferences about best practices in data visualization. 
 
