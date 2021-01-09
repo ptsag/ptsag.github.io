@@ -1,6 +1,7 @@
 ---
 title: "paul tsagaroulis - about me"
 output: html_document
+css: styles.css
 ---
 
 ```{r setup, include=FALSE}
