@@ -14,6 +14,8 @@ navbar:
       href: http://github.com/ptsag 
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/ptsag 
+    - icon: fa-twitter fa-lg
+      href: https://www.twitter.com/in/paultsagaroulis 
 output:
   html_document:
     theme: paper
