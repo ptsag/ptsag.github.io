@@ -24,6 +24,6 @@ Hello. I help improve the workforce using data-driven methods.
 
 I have more than 15 years of experience in [people analytics](people-analytics.html) and a PhD in Business Psychology (industrial-organizational track) from the Chicago School of Professional Psychology.
 
-I'm passionate about data visualization, especially the *seeing* & *thinking* of data. I've [presented](presentations.html) best practices in data visualization at national conferences and workshops. My research interest is in developing a better understanding of how data visualization practices may help facilitate comprehension. [Read more](research.html).
+I'm passionate about data visualization, especially the *seeing* & *thinking* of data, and have [presented](presentations.html) best practices in data visualization at national conferences and workshops. My research interest is in developing a better understanding of how data visualizations help facilitate comprehension. [Read more](research.html).
 
 Connect with me via [LinkedIn](https://www.linkedin.com/in/ptsag/).
