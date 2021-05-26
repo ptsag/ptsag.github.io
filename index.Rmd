@@ -26,4 +26,4 @@ I have more than 15 years of experience in [people analytics](people-analytics.h
 
 I'm passionate about data visualization, especially the *seeing* & *thinking* of data, and have [presented](presentations.html) best practices in data visualization at national conferences and workshops. My research interest is in developing a better understanding of how data visualizations help facilitate comprehension. [Read more](research.html).
 
-Connect with me via [LinkedIn](https://www.linkedin.com/in/ptsag/).
+I work at [SurePeople](https://www.surepeople.com/) and with [SureAthlete](https://www.sureathlete.com/). Connect with me via [LinkedIn](https://www.linkedin.com/in/ptsag/).
