@@ -18,13 +18,13 @@ knitr::opts_chunk$set(echo = TRUE)
   gtag('config', 'UA-61071-2');
 </script>
 
-For me, **people analytics** refers to data-driven practices that help improve organizations and their workforce. But analyzing data about people at work is nuanced, complex, and can be challenging. For most organizations, advancing people analytics may predicate on a strong data culture. In contrast, many organizations may struggle with limited transparency of HR data to advance people analytics. Also, fully embracing people analytics may require partnering with finance and technology teams – it’s not just an ‘HR thing.’ And so on.
+For me, **people analytics** refers to data-driven practices that help improve organizations and their workforce. But analyzing data about people at work is nuanced, complex, and can be challenging. 
 
-I began my career in workforce analytics in 2003 (before *people analytics* entered our vocabulary, see chart) after completing my master of arts in industrial-organizational psychology. This year, I completed my PhD in business psychology from the Chicago School of Psychology. My most proud professional achievement has been developing a team of analysts and data engineers to improve how HR data was used in a U.S. federal agency.
+For most organizations, advancing people analytics may predicate a strong data culture. In contrast, many organizations may struggle with limited transparency of HR data to advance people analytics. Also, fully embracing people analytics may require partnering with finance and technology teams – it’s not just an ‘HR thing’. 
 
-My professional interest is in helping HR teams improve data literacy, for example, to advance analytical thinking at work. One way to achieve this is through leveraging best practices in data visualization to foster the *showing of data* and the *thinking of data*. 
+When we start with people analytics, we often end with a better understanding of organizations.
 
-I have found that when we start with people analytics, we often end with a better understanding of organizational outcomes. 
+I began my career in workforce analytics in 2003 (before *people analytics* entered our vocabulary, see chart). 
 
 ```{r, gTrend, echo=FALSE, message=FALSE, results=FALSE}
 library(tidyverse)    # combination of packages
